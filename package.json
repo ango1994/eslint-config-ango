@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-ango",
+  "version": "1.0.0",
+  "description": "Configuración personalizada de ESLint para mis proyectos.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+},
+  "keywords": [
+    "eslint", "eslintconfig"
+  ],
+  "author": "Ango <alejandro.montes.dom@gmail.com>",
+  "license": "MIT"
+}
